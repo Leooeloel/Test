@@ -1,0 +1,15 @@
+一、git init           创建git仓库
+二、git add X          将文件X提交到暂存区
+三、git commit -m " "  将(多个)文件提交到分支
+
+四、git remote add origin git@github.com:Leooeloel/项目名.git   关联本地仓库和远程仓库
+五、git push (-u) origin master                                 推送master分支到远程仓库  第一次加上 -u 
+
+六、git clone git@github.com:Leooeloel/项目名.git     从远程仓库克隆项目到本地
+
+七、git branch X        创建分支X
+八、git checkout X      切换到X分支    (git checkout -b X    创建分支并切换)
+九、git branch          查看分支
+
+十、git mergr X         合并某分支到当前分支
+十一、git branch -d X   删除分支X
