@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="30px" viewBox="0 0 32 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>形状结合</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="首页" transform="translate(-1133.000000, -154.000000)" stroke="#8EC4E5">
+            <g id="形状结合-2" transform="translate(1134.000000, 154.000000)">
+                <path d="M-1.70530257e-13,0 L30,30 M30,0 L-1.70530257e-13,30" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>

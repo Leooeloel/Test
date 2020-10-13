@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="240px" viewBox="0 0 360 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 20</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-900.000000, -2369.000000)">
+            <g id="编组-20" transform="translate(900.000000, 2369.000000)">
+                <rect id="矩形备份-3" fill="#FFFFFF" x="0" y="0" width="360" height="240"></rect>
+                <polyline id="路径-44" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="84 79 76 89 84 99"></polyline>
+                <polyline id="路径-44备份" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(111.000000, 89.000000) scale(-1, 1) translate(-111.000000, -89.000000) " points="115 79 107 89 115 99"></polyline>
+                <line x1="90" y1="99" x2="101" y2="79" id="路径-45" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="75" y1="116" x2="92" y2="116" id="路径-27" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="83" y1="124" x2="113" y2="124" id="路径-27备份" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="75" y1="140" x2="105" y2="140" id="路径-27备份" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="75" y1="132" x2="98" y2="132" id="路径-27备份" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></line>
+                <circle id="椭圆形" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="72" cy="51" r="3"></circle>
+                <circle id="椭圆形备份" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="86" cy="51" r="3"></circle>
+                <circle id="椭圆形备份-3" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="100" cy="51" r="3"></circle>
+                <line x1="60" y1="63" x2="248" y2="63" id="路径-25" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <rect id="矩形备份-14" stroke="#3381FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="60" y="39" width="188" height="122" rx="8"></rect>
+                <rect id="矩形备份-18" stroke="#3381FF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="148" y="102" width="64" height="100" rx="8"></rect>
+                <rect id="矩形" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="156" y="110" width="48" height="64" rx="2"></rect>
+                <circle id="椭圆形" stroke="#3381FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="180" cy="188" r="6"></circle>
+                <line x1="191" y1="124" x2="172" y2="143" id="路径-26" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="187" y1="140" x2="168" y2="159" id="路径-26备份" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <rect id="矩形备份-30" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="238" y="128" width="14" height="24"></rect>
+                <rect id="矩形备份-31" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="276" y="128" width="14" height="24"></rect>
+                <path d="M228,152 L300,152 L300,202 L280,202 L280,178 C280,169.163444 272.836556,162 264,162 C255.163444,162 248,169.163444 248,178 L248,202 L248,202 L228,202 L228,152 Z" id="矩形" stroke="#3381FF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                <rect id="矩形" stroke="#3381FF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="228" y="114" width="72" height="14"></rect>
+                <polygon id="路径-43" stroke="#3381FF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="228 114 264 85 300 114"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

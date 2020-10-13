@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 3</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-825.000000, -1338.000000)">
+            <g id="编组-3" transform="translate(825.000000, 1338.000000)">
+                <rect id="矩形备份-3" fill="#FFFFFF" opacity="0" x="0" y="0" width="60" height="60"></rect>
+                <path d="M18.5,12.5 L34.5,12.5 L34.5,12.5 L43.5,21.5 L43.5,45.5 C43.5,46.6045695 42.6045695,47.5 41.5,47.5 L18.5,47.5 C17.3954305,47.5 16.5,46.6045695 16.5,45.5 L16.5,14.5 C16.5,13.3954305 17.3954305,12.5 18.5,12.5 Z" id="矩形备份-5" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M34.5,12.5 L43.5,21.5 L36.5,21.5 C35.3954305,21.5 34.5,20.6045695 34.5,19.5 L34.5,12.5 L34.5,12.5 Z" id="矩形" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M26,40 L26,33.5 L26,26.5 L31,26.5 C32.9329966,26.5 34.5,28.0670034 34.5,30 C34.5,31.9329966 32.9329966,33.5 31,33.5 L28,33.5 L28,33.5" id="路径-19" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="240px" viewBox="0 0 360 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 17备份 2</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="14" rx="7"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-180.000000, -2671.000000)">
+            <g id="编组-17备份-2" transform="translate(180.000000, 2671.000000)">
+                <rect id="矩形备份-3" fill="#FFFFFF" x="0" y="0" width="360" height="240"></rect>
+                <rect id="矩形备份-23" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(260.000000, 174.000000) rotate(-315.000000) translate(-260.000000, -174.000000) " x="236" y="167" width="48" height="14" rx="7"></rect>
+                <path d="M186,74 L173.211188,57.3745439 C169.047228,51.9613958 161.585176,50.3425594 155.552431,53.5436083 L117,74 L117,74" id="路径-23" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="59" y1="173" x2="203" y2="173" id="路径-30备份" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5"></line>
+                <line x1="59" y1="95" x2="203" y2="95" id="路径-30" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5"></line>
+                <rect id="矩形" stroke="#3381FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="59" y="75" width="144" height="118" rx="12"></rect>
+                <rect id="矩形" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="187" y="137" width="48" height="14" rx="7"></rect>
+                <line x1="201" y1="142" x2="201" y2="151" id="路径-31" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="205" y1="145" x2="205" y2="151" id="路径-32" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="209" y1="144" x2="209" y2="151" id="路径-33" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <rect id="矩形备份-23" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="192" y="151" width="48" height="14" rx="7"></rect>
+                <rect id="矩形备份-24" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="184" y="165" width="48" height="14" rx="7"></rect>
+                <line x1="198" y1="170" x2="198" y2="179" id="路径-31" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="202" y1="173" x2="202" y2="179" id="路径-32" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="206" y1="172" x2="206" y2="179" id="路径-33" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <rect id="矩形备份-26" stroke="#3381FF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="220" y="165" width="48" height="14" rx="7"></rect>
+                <rect id="矩形备份-25" stroke="#A9CAFF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="187" y="179" width="48" height="14" rx="7"></rect>
+                <g id="编组-15" transform="translate(211.000000, 179.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="矩形备份-27" stroke="#3381FF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-1"></use>
+                    <line x1="14" y1="5" x2="14" y2="14" id="路径-31" stroke="#3381FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></line>
+                    <line x1="18" y1="8" x2="18" y2="14" id="路径-32" stroke="#3381FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></line>
+                    <line x1="22" y1="7" x2="22" y2="14" id="路径-33" stroke="#3381FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></line>
+                </g>
+                <path d="M55,118 L111,118 C119.836556,118 127,125.163444 127,134 C127,142.836556 119.836556,150 111,150 L55,150 C51.6862915,150 49,147.313708 49,144 L49,124 C49,120.686292 51.6862915,118 55,118 Z" id="矩形" stroke="#3381FF" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="椭圆形" stroke="#3381FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="111" cy="134" r="7"></circle>
+                <g id="编组-16备份" transform="translate(293.000000, 131.000000) rotate(10.000000) translate(-293.000000, -131.000000) translate(277.000000, 115.000000)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                    <circle id="椭圆形" stroke="#3381FF" fill="#FFFFFF" cx="16" cy="16" r="16"></circle>
+                    <circle id="椭圆形" stroke="#A9CAFF" fill="#FFFFFF" cx="16" cy="16" r="12"></circle>
+                    <path d="M13,11 L16,14 L19,11 M13,15 L19,15 M13,18 L19,18 M16,15 L16,21" id="形状结合" stroke="#3381FF"></path>
+                </g>
+                <g id="编组-16备份-2" transform="translate(251.006286, 82.749871) rotate(-15.000000) translate(-251.006286, -82.749871) translate(234.506286, 66.249871)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                    <circle id="椭圆形" stroke="#A9CAFF" fill="#FFFFFF" cx="16.4291899" cy="16.7399789" r="16"></circle>
+                    <circle id="椭圆形" stroke="#3381FF" fill="#FFFFFF" cx="16.4291899" cy="16.7399789" r="12"></circle>
+                    <polyline id="路径-37" stroke="#3381FF" points="16.4291899 9.73997895 16.4291899 16.7399789 22.4291899 19.7399789"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

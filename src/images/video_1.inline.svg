@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 5备份 2</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-555.000000, -1338.000000)">
+            <g id="编组-5备份-2" transform="translate(555.000000, 1338.000000)">
+                <line x1="32" y1="10" x2="30" y2="13" id="路径-18" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" transform="translate(31.000000, 11.500000) scale(-1, 1) translate(-31.000000, -11.500000) "></line>
+                <path d="M30,50 C41.045695,50 50,41.045695 50,30 C50,18.954305 41.045695,10 30,10 C18.954305,10 10,18.954305 10,30" id="椭圆形" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" transform="translate(30.000000, 30.000000) scale(1, -1) translate(-30.000000, -30.000000) "></path>
+                <rect id="矩形备份-6" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" x="23" y="23" width="14" height="14" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

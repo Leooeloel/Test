@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="101px" viewBox="0 0 192 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>路径 10</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="8" stroke-linecap="round" stroke-linejoin="round">
+        <g id="首页" transform="translate(-107.000000, -176.000000)" stroke="#71C3FC">
+            <g id="路径-12" transform="translate(107.000000, 156.000000)">
+                <path d="M0,103 L18.9887183,113.156756 C46.4954397,127.869654 80.7212032,117.49821 95.4341007,89.9914889 C98.035947,85.1271676 99.9111562,79.9079242 101,74.5 C108.264826,38.4180291 143.404348,15.0571178 179.486319,22.3219441 C182.338838,22.8962768 185.150681,23.6568119 187.903794,24.5986664 L192,26 L192,26" id="路径-10"></path>
+            </g>
+        </g>
+    </g>
+</svg>

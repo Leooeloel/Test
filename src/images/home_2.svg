@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="51px" viewBox="0 0 51 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形备份 9</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="首页" transform="translate(-1285.000000, -411.000000)" stroke="#FFA9D0">
+            <g id="编组-24" transform="translate(1284.000000, 410.000000)">
+                <rect id="矩形备份-9" transform="translate(26.500000, 26.500000) rotate(-25.000000) translate(-26.500000, -26.500000) " x="7" y="7" width="39" height="39" rx="6"></rect>
+                <path d="M13.7470187,36.3910006 L17.7470187,32.3910006 C20.5084425,29.6295769 24.985595,29.6295769 27.7470187,32.3910006 L28.7470187,33.3910006 C30.9561577,35.6001396 34.5378797,35.6001396 36.7470187,33.3910006 C38.9561577,31.1818616 42.5378797,31.1818616 44.7470187,33.3910006 L44.7470187,33.3910006 L44.7470187,33.3910006" id="路径-4" transform="translate(29.247019, 32.391001) rotate(-25.000000) translate(-29.247019, -32.391001) "></path>
+                <circle id="椭圆形" transform="translate(27.408748, 17.800909) rotate(-25.000000) translate(-27.408748, -17.800909) " cx="27.4087481" cy="17.8009094" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

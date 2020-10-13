@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 3</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="产品详情" transform="translate(-206.000000, -3286.000000)">
+            <g id="编组-4" transform="translate(180.000000, 3260.000000)">
+                <g id="编组-3" transform="translate(26.000000, 26.000000)">
+                    <rect id="矩形备份-7" fill="#FFFFFF" x="0" y="0" width="120" height="120"></rect>
+                    <polygon id="路径-29" stroke="#3381FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(63.000000, 60.000000) rotate(-270.000000) translate(-63.000000, -60.000000) " points="63 49 49 71 77 71"></polygon>
+                    <line x1="64" y1="20" x2="60" y2="26" id="路径-18" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(62.000000, 23.000000) scale(-1, 1) translate(-62.000000, -23.000000) "></line>
+                    <path d="M60,100 C82.09139,100 100,82.09139 100,60 C100,37.90861 82.09139,20 60,20 C37.90861,20 20,37.90861 20,60" id="椭圆形" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(60.000000, 60.000000) scale(1, -1) translate(-60.000000, -60.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

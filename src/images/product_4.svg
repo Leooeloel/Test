@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 4备份</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="产品详情" transform="translate(-206.000000, -3090.000000)">
+            <g id="编组" transform="translate(180.000000, 3064.000000)">
+                <g id="编组-4备份" transform="translate(26.000000, 26.000000)">
+                    <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="120" height="120"></rect>
+                    <line x1="78" y1="39" x2="84" y2="39" id="路径-52" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <rect id="矩形" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="48" y="40" width="24" height="24" rx="12"></rect>
+                    <line x1="28" y1="80.5" x2="92" y2="80.5" id="路径-8" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="50" y1="81" x2="39" y2="101" id="路径-13" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="70" y1="81" x2="80" y2="101" id="路径-14" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="53" y1="23" x2="67" y2="23" id="路径-15" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="60" y1="18" x2="60" y2="23" id="路径-17" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <rect id="矩形" stroke="#3381FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" x="28" y="31" width="64" height="42" rx="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

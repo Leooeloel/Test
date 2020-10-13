@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 5备份 2</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="产品详情" transform="translate(-206.000000, -2217.000000)">
+            <g id="编组-2" transform="translate(180.000000, 2191.000000)">
+                <g id="编组-5备份-2" transform="translate(26.000000, 26.000000)">
+                    <rect id="矩形备份-7" fill="#FFFFFF" x="0" y="0" width="120" height="120"></rect>
+                    <polyline id="路径-3" stroke="#3381FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="42 42 60 60 84 60"></polyline>
+                    <line x1="100" y1="60" x2="94" y2="64" id="路径-18" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <path d="M60,100 C82.09139,100 100,82.09139 100,60 C100,37.90861 82.09139,20 60,20 C37.90861,20 20,37.90861 20,60" id="椭圆形" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(60.000000, 60.000000) scale(1, -1) rotate(-90.000000) translate(-60.000000, -60.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
